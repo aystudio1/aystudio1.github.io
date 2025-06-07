@@ -15,4 +15,11 @@ h3 {
     font-family: sans-serif;
     border-color: gray;
     border-radius: 10px;
+    border: 10px;
+}
+h4 {
+    font-family: sans-serif;
+    border-color: gray;
+    border-radius: 10px;
+    border: 10px;
 }
