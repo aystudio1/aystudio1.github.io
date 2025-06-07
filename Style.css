@@ -3,7 +3,7 @@ button {
     background-color: red;
     font-size: 50px;
     border-radius: 50px;
-    border-bottom: 50px;
+    border: 10px;
         }
 button:hover {
     background-color: blue;
@@ -13,6 +13,6 @@ h1 {
 }
 h3 {
     font-family: sans-serif;
-    border-color: gray;
+    border: 10px solid gray;
     border-radius: 10px;
 }
