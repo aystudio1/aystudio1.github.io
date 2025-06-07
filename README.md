@@ -1,4 +1,3 @@
-# aystudio1.github.io
+## Welcome to the A2Y Website!
 
-this is a website that shows you how to use the A2Y java engine.
-Currently in beta.
+[Go to the actual Site](https://aystudio1.github.io/index.html)
